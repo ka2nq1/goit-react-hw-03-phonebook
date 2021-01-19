@@ -53,7 +53,7 @@
     2px 2px 6px rgba(0, 0, 0, 0.1);
 }
 
-.btn:hover {
+.btn:active {
   box-shadow: inset -2px -2px 6px rgba(255, 255, 255, 1),
     inset 2px 2px 6px rgba(0, 0, 0, 0.1);
 }
